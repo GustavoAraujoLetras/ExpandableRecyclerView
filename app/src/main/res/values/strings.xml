@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expandable RecyclerView</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent facilisis metus et augue ultricies fermentum. Donec posuere ut nulla eget mollis. Mauris vehicula nunc ut elit sodales, nec faucibus nibh porta. Fusce et orci tempus, ornare nunc non, dictum metus. Fusce aliquam ante nec volutpat finibus. Curabitur sodales arcu eget.</string>
+</resources>
